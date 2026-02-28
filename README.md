@@ -12,18 +12,18 @@ A complete end-to-end data analysis project exploring hiring trends, salary benc
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
-- 📍 **Penang pays 32% more** than the national average (RM 7,216 vs RM 5,468 in KL) — despite having fewer job postings
-- 💻 **ICT is the #3 highest paying industry** (RM 6,422/month avg) and #3 in demand with 8,675 job postings
-- 🏦 **Accounting has the most jobs** (11,308) but only ranks #13 in salary — high competition, average pay
-- 👔 **90% of Malaysian jobs are Full Time** — strong market stability for international job seekers
-- 🔧 **Network Engineering** is the highest paying ICT role at RM 13,358/month — but only 20 openings
-- 📈 **Business/Systems Analysts** average RM 6,108/month with 182 openings — best balance of pay and demand for data professionals
+-  **Penang pays 32% more** than the national average (RM 7,216 vs RM 5,468 in KL) - despite having fewer job postings
+-  **ICT is the #3 highest paying industry** (RM 6,422/month avg) and #3 in demand with 8,675 job postings
+-  **Accounting has the most jobs** (11,308) but only ranks #13 in salary - high competition, average pay
+-  **90% of Malaysian jobs are Full Time** - strong market stability for international job seekers
+-  **Network Engineering** is the highest paying ICT role at RM 13,358/month - but only 20 openings
+-  **Business/Systems Analysts** average RM 6,108/month with 182 openings - best balance of pay and demand for data professionals
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 | Tool | Purpose |
 |------|---------|
@@ -35,7 +35,7 @@ A complete end-to-end data analysis project exploring hiring trends, salary benc
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 malaysia-job-market-analysis/
@@ -57,7 +57,7 @@ malaysia-job-market-analysis/
 
 ---
 
-## 🔄 Methodology
+##  Methodology
 
 ### 1. Data Collection
 - Source: [JobStreet All Job Dataset](https://www.kaggle.com/datasets/azraimohamad/jobstreet-all-job-dataset) via Kaggle
@@ -65,11 +65,11 @@ malaysia-job-market-analysis/
 - 11 raw columns including job title, company, location, category, salary, and listing date
 
 ### 2. Data Cleaning (Python)
-- Standardized `job_type` column — consolidated 11 variations into 4 clean categories
-- Extracted numeric salary values from text strings using Regex (e.g. "RM 2,800 – RM 3,200 per month" → min: 2800, max: 3200, avg: 3000)
+- Standardized `job_type` column - consolidated 11 variations into 4 clean categories
+- Extracted numeric salary values from text strings using Regex (e.g. "RM 2,800 - RM 3,200 per month" -> min: 2800, max: 3200, avg: 3000)
 - Parsed listing dates and extracted month for time-based analysis
 - Removed recruitment agencies from company analysis to show real employer demand
-- Handled 37,430 missing salary values (54% of dataset) — identified as a market insight itself
+- Handled 37,430 missing salary values (54% of dataset) - identified as a market insight itself
 
 ### 3. SQL Analysis
 - Loaded cleaned data into SQLite database
@@ -85,7 +85,7 @@ malaysia-job-market-analysis/
 
 ---
 
-## 💡 Why This Project
+##  Why This Project
 
 As a data professional targeting the Malaysian job market, I wanted to go beyond generic salary surveys and analyze real, current hiring data. This project answers questions any job seeker or HR professional in Malaysia would actually care about:
 
@@ -96,7 +96,7 @@ As a data professional targeting the Malaysian job market, I wanted to go beyond
 
 ---
 
-## 👤 About Me
+##  About Me
 
 **Priyanshu Singh** — Data Analyst  
 📧 maanapriyanshu@gmail.com  
@@ -104,4 +104,7 @@ As a data professional targeting the Malaysian job market, I wanted to go beyond
 
 ---
 
-*Dataset source: JobStreet Malaysia job postings via Kaggle. Analysis conducted for portfolio purposes.*
+## Dataset
+Source: [JobStreet All Job Dataset](https://www.kaggle.com/datasets/azraimohamad/jobstreet-all-job-dataset) — Kaggle  
+69,024 job postings from JobStreet Malaysia (2024)  
+Download the dataset from Kaggle and place it in `data/raw/` to reproduce this analysis.
