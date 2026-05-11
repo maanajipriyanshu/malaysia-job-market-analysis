@@ -88,7 +88,7 @@ As a data professional targeting the Malaysian job market, I wanted to go beyond
 - What ICT role gives the best balance of pay and opportunity?
 - How transparent are Malaysian employers about salary?
 
----
+
 
 ##  About Me
 
@@ -96,7 +96,7 @@ As a data professional targeting the Malaysian job market, I wanted to go beyond
 📧 maanapriyanshu@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/maanapriyanshurajput)
 
----
+
 
 ## Dataset
 Source: [JobStreet All Job Dataset](https://www.kaggle.com/datasets/azraimohamad/jobstreet-all-job-dataset) — Kaggle  
