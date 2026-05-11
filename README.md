@@ -18,7 +18,6 @@ A complete end-to-end data analysis project exploring hiring trends, salary benc
 -  **Network Engineering** is the highest paying ICT role at RM 13,358/month - but only 20 openings
 -  **Business/Systems Analysts** average RM 6,108/month with 182 openings - best balance of pay and demand for data professionals
 
----
 
 ##  Tools & Technologies
 
@@ -30,7 +29,6 @@ A complete end-to-end data analysis project exploring hiring trends, salary benc
 | Git & GitHub | Version control |
 | Jupyter Notebook | Reproducible analysis workflow |
 
----
 
 ##  Project Structure
 
@@ -52,7 +50,6 @@ malaysia-job-market-analysis/
 └── README.md
 ```
 
----
 
 ##  Methodology
 
@@ -80,7 +77,7 @@ malaysia-job-market-analysis/
 - 5 interactive visuals with Industry and Location slicers
 - Dark professional theme with average line annotations
 
----
+
 
 ##  Why This Project
 
