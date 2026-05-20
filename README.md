@@ -60,7 +60,7 @@ malaysia-job-market-analysis/
 
 ### 2. Data Cleaning (Python)
 - Standardized `job_type` column - consolidated 11 variations into 4 clean categories
-- Extracted numeric salary values from text strings using Regex (e.g. "RM 2,800 - RM 3,200 per month" -> min: 2800, max: 3200, avg: 3000)
+- Extracted numeric salary values from text strings using Regex (e.g. "RM 2,800 - RM 3,200 per month" ->  min: 2800, max: 3200, avg: 3000)
 - Parsed listing dates and extracted month for time-based analysis
 - Removed recruitment agencies from company analysis to show real employer demand
 - Handled 37,430 missing salary values (54% of dataset) - identified as a market insight itself
