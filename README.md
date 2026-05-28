@@ -11,12 +11,12 @@ A complete end-to-end data analysis project exploring hiring trends, salary benc
 
 ## Key Insights
 
--  **Penang pays 32% more** than the national average (RM 7,216 vs RM 5,468 in KL) - despite having fewer job postings
--  **ICT is the #3 highest paying industry** (RM 6,422/month avg) and #3 in demand with 8,675 job postings
--  **Accounting has the most jobs** (11,308) but only ranks #13 in salary - high competition, average pay
--  **90% of Malaysian jobs are Full Time** - strong market stability for international job seekers
--  **Network Engineering** is the highest paying ICT role at RM 13,358/month - but only 20 openings
--  **Business/Systems Analysts** average RM 6,108/month with 182 openings - best balance of pay and demand for data professionals
+-  **Penang pays 32% more** than the national average (RM 7,216 vs RM 5,468 in KL) - despite having fewer job postings.
+-  **ICT is the #3 highest paying industry** (RM 6,422/month avg) and #3 in demand with 8,675 job postings.
+-  **Accounting has the most jobs** (11,308) but only ranks #13 in salary - high competition, average pay.
+-  **90% of Malaysian jobs are Full Time** - strong market stability for international job seekers.
+-  **Network Engineering** is the highest paying ICT role at RM 13,358/month - but only 20 openings.
+-  **Business/Systems Analysts** average RM 6,108/month with 182 openings - best balance of pay and demand for data professionals.
 
 
 ##  Tools & Technologies
