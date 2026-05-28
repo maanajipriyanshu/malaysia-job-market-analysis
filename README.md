@@ -36,7 +36,7 @@ A complete end-to-end data analysis project exploring hiring trends, salary benc
 malaysia-job-market-analysis/
 │
 ├── data/
-│   ├── jobstreet_cleaned.csv        # 69,024 cleaned job postings
+│   ├── jobstreet_cleaned.csv        # Cleaned 69,024 job postings
 │   └── jobstreet_companies.csv      # Filtered real employers only
 │
 ├── notebooks/
