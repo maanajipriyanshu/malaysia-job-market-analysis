@@ -6,7 +6,7 @@ A complete end-to-end data analysis project exploring hiring trends, salary benc
 
 > Built in Power BI - interactive dashboard with slicers for Industry and Location filtering.
 
-![Dashboard Preview](dashboard/Malaysia_Job_Market_Analysis_2024.pdf)
+![Dashboard Preview](dashboard/Malaysia_Job_Market_Analysis_2024.pdf) 
 
 
 ## Key Insights
